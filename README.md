@@ -15,3 +15,12 @@ Compile contracts with Hardhat
 ```
 yarn run compile
 ```
+
+### Deploy
+
+Deploy bridge contract  
+_Before run this script, make sure the parameters of .env is filled with correct values._
+
+````
+yarn run deploy
+````
